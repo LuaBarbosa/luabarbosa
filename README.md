@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-<a href="#">
-    <img src = "svg / dev / frameworks / nodejs.svg" alt = "nodejs" style = "vertical-align: top; margin: 6px 4px">
-  </a>  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-barbosa-ferreira/)](https://www.linkedin.com/in/luana-barbosa-ferreira/)
 <!--
 **LuaBarbosa/luabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
