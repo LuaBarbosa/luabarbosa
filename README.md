@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+<a href="#">
+    <img src = "svg / dev / frameworks / nodejs.svg" alt = "nodejs" style = "vertical-align: top; margin: 6px 4px">
+  </a>  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
