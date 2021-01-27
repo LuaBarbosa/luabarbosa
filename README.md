@@ -1,5 +1,9 @@
-<h1 align = "center"> Olá 👋, sou Luana, mais conhecida como Lua! </h1>
-<h3 align = "center"> 🎓 Advogada por formação, atualmente sou Desenvolvedora Full Stack. </h3>
+
+
+
+<h2 align = "center"> Olá 👋, sou Luana! </h2>
+
+<h3> 🎓 Me formei em Direito, atualmente sou Desenvolvedora Fullstack.💻 </h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-barbosa-ferreira/)](https://www.linkedin.com/in/luana-barbosa-ferreira/)
