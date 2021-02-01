@@ -3,7 +3,7 @@
 
 <h2 align = "center"> Olá 👋, sou Luana! </h2>
 
-<h3> 🎓 Me formei em Direito, atualmente sou Desenvolvedora Fullstack.💻 </h3>
+<h3> Sou Dev Fullstack  💻 </h3>
 
 <h4> Mãe, apaixonada por planner, praia e reunir pessoas. </h4>
 
