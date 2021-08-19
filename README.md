@@ -1,9 +1,9 @@
+## Olá, eu sou a Luana 
 
+💻 Sou Dev Back end
+🎓Estudando Análise e Desenvolvimento de Sistema
+📌 Aprendendo Python
 
-
-<h2 align = "center"> Olá 👋, sou Luana! </h2>
-
-<h3> Sou Dev Fullstack  💻 </h3>
 
 <h4> Mãe, apaixonada por planner, praia e reunir pessoas. </h4>
 
