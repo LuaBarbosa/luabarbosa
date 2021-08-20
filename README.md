@@ -1,4 +1,8 @@
+Oiiii, sou Luana!
+
 💻 Sou Dev Back end
+
+
 ##
 🎓Estudando Análise e Desenvolvimento de Sistema
 ##
