@@ -1,6 +1,6 @@
 Oiiii, sou Luana!
 
-💻 Sou Dev Back end
+💻 Sou Dev full-stack
 
 
 ##
