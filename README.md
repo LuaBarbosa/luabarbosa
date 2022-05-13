@@ -6,8 +6,6 @@ Oiiii, sou Luana!
 ##
 🎓Estudando Análise e Desenvolvimento de Sistema
 ##
-📌Aprendendo Java
-##
 
 <div>
   <a href="https://github.com/Luabarbosa">
