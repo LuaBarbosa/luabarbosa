@@ -1,7 +1,5 @@
 Oiiii, sou Luana!
 
-💻 Sou Dev full-stack
-
 
 ##
 🎓Estudando Análise e Desenvolvimento de Sistema
