@@ -2,7 +2,7 @@
 
 
 ##
-🎓Estudando Análise e Desenvolvimento de Sistema
+🎓Estudo Análise e Desenvolvimento de Sistema
 ##
 
 <div>
