@@ -1,10 +1,6 @@
 <h2>Oiiii, sou Luana!</h2>
 
 
-##
-🎓Estudo Análise e Desenvolvimento de Sistema
-##
-
 <div>
   <a href="https://github.com/Luabarbosa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luabarbosa&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
